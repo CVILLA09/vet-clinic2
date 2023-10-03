@@ -139,6 +139,12 @@ No tests here...
 - GitHub: [@cvilla09](https://github.com/CVILLA09)
 - LinkedIn: [Cristian Villa](https://www.linkedin.com/in/cristian-villa-5b518127b/)
 
+👤 **Kazim Mohammadi**
+
+- GitHub: [@kazim110](https://github.com/kazim110)
+- Twitter: [@kazim471](https://twitter.com/kazim471)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kazim-mohammadi/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
