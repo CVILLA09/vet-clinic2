@@ -145,6 +145,12 @@ No tests here...
 - Twitter: [@kazim471](https://twitter.com/kazim471)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kazim-mohammadi/)
 
+👤 **Macherki Nessrine**
+
+- GitHub: [@githubhandle](https://github.com/Nessrine88)
+- Twitter: [@twitterhandle](https://twitter.com/Nessour88)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nessrine-macherki-86959196/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
