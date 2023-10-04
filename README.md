@@ -49,6 +49,9 @@
 
 **Vet Clinic** is a relational database designed to manage the data structure for a vet clinic, including information on animals, their owners, and clinic visits.
 
+
+![Database Schema Diagram](https://github.com/CVILLA09/vet-clinic2/blob/feature/add-database-schema-diagram/screenshots/diagram.png?raw=true)
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
